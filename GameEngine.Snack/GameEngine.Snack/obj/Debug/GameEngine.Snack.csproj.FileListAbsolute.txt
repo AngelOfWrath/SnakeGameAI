@@ -1,0 +1,9 @@
+C:\Users\Vladimir\Desktop\Новая папка\SWD6\iitu-master\week 2\GameEngine.Snack\GameEngine.Snack\bin\Debug\GameEngine.Snack.exe.config
+C:\Users\Vladimir\Desktop\Новая папка\SWD6\iitu-master\week 2\GameEngine.Snack\GameEngine.Snack\bin\Debug\GameEngine.Snack.exe
+C:\Users\Vladimir\Desktop\Новая папка\SWD6\iitu-master\week 2\GameEngine.Snack\GameEngine.Snack\bin\Debug\GameEngine.Snack.pdb
+C:\Users\Vladimir\Desktop\Новая папка\SWD6\iitu-master\week 2\GameEngine.Snack\GameEngine.Snack\bin\Debug\PixelEngine.dll
+C:\Users\Vladimir\Desktop\Новая папка\SWD6\iitu-master\week 2\GameEngine.Snack\GameEngine.Snack\obj\Debug\GameEngine.Snack.csprojAssemblyReference.cache
+C:\Users\Vladimir\Desktop\Новая папка\SWD6\iitu-master\week 2\GameEngine.Snack\GameEngine.Snack\obj\Debug\GameEngine.Snack.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir\Desktop\Новая папка\SWD6\iitu-master\week 2\GameEngine.Snack\GameEngine.Snack\obj\Debug\GameEngine.Snack.csproj.CopyComplete
+C:\Users\Vladimir\Desktop\Новая папка\SWD6\iitu-master\week 2\GameEngine.Snack\GameEngine.Snack\obj\Debug\GameEngine.Snack.exe
+C:\Users\Vladimir\Desktop\Новая папка\SWD6\iitu-master\week 2\GameEngine.Snack\GameEngine.Snack\obj\Debug\GameEngine.Snack.pdb
